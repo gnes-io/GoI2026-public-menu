@@ -10,7 +10,7 @@
         "de": "Hummercremesuppe",
         "en": "Hummercremesuppe"
       },
-      "price": 15,
+      "price": 7.5,
       "dietary": {
         "is_vegetarian": false,
         "is_vegan": false,
@@ -86,7 +86,7 @@
         "de": "Mulligatawny Soup",
         "en": "Mulligatawny Soup"
       },
-      "price": 9,
+      "price": 5.9,
       "dietary": {
         "is_vegetarian": false,
         "is_vegan": false,
