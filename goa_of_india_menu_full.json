@@ -1,4 +1,26 @@
 {
+  "allergen_legend": {
+    "GG": {
+      "de": "Glutenhaltiges Getreide",
+      "en": "Gluten containing cereals"
+    },
+    "M": {
+      "de": "Milch / Laktose",
+      "en": "Milk / lactose"
+    },
+    "F": {
+      "de": "Fisch",
+      "en": "Fish"
+    },
+    "K": {
+      "de": "Krebstiere",
+      "en": "Crustaceans"
+    },
+    "S": {
+      "de": "Schalenfrüchte",
+      "en": "Tree nuts"
+    }
+  },
   "menu_items": [
     {
       "id": "213",
@@ -40,7 +62,11 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [
+        "M",
+        "K"
+      ]
     },
     {
       "id": "214",
@@ -82,7 +108,9 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "215",
@@ -124,7 +152,9 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "216",
@@ -166,7 +196,9 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "217",
@@ -208,7 +240,9 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "218",
@@ -250,7 +284,10 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "219",
@@ -292,7 +329,11 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [
+        "M",
+        "K"
+      ]
     },
     {
       "id": "220",
@@ -334,7 +375,10 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [
+        "F"
+      ]
     },
     {
       "id": "221",
@@ -376,7 +420,9 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "222",
@@ -418,7 +464,9 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "223",
@@ -460,7 +508,10 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [
+        "F"
+      ]
     },
     {
       "id": "224",
@@ -502,7 +553,9 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "225",
@@ -544,7 +597,9 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "226",
@@ -586,7 +641,10 @@
       "super_category": {
         "de": "🥘 Vorspeisen",
         "en": "🥘 Starters"
-      }
+      },
+      "allergens": [
+        "F"
+      ]
     },
     {
       "id": "230",
@@ -632,7 +690,10 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "231",
@@ -678,7 +739,10 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "232",
@@ -724,7 +788,9 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "233",
@@ -770,7 +836,10 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "234",
@@ -816,7 +885,10 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "235",
@@ -862,7 +934,11 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "K",
+        "M"
+      ]
     },
     {
       "id": "353",
@@ -908,7 +984,11 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "M"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "238",
@@ -954,7 +1034,10 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "239",
@@ -1000,7 +1083,12 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "K",
+        "M",
+        "S"
+      ]
     },
     {
       "id": "240",
@@ -1046,7 +1134,10 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "241",
@@ -1092,7 +1183,10 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "242",
@@ -1138,7 +1232,10 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "243",
@@ -1184,7 +1281,10 @@
       "super_category": {
         "de": "🔥 Tandoori",
         "en": "🔥 Tandoori"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "245",
@@ -1230,7 +1330,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "246",
@@ -1276,7 +1380,13 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "F",
+        "K",
+        "M",
+        "S"
+      ]
     },
     {
       "id": "247",
@@ -1322,7 +1432,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "248",
@@ -1368,7 +1482,12 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "K",
+        "M",
+        "S"
+      ]
     },
     {
       "id": "249",
@@ -1414,7 +1533,9 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "250",
@@ -1460,7 +1581,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "251",
@@ -1506,7 +1631,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "254",
@@ -1552,7 +1681,11 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "256",
@@ -1598,7 +1731,10 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "257",
@@ -1644,7 +1780,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "258",
@@ -1690,7 +1828,11 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "259",
@@ -1736,7 +1878,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "260",
@@ -1782,7 +1926,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "261",
@@ -1828,7 +1974,10 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "262",
@@ -1874,7 +2023,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "424",
@@ -1920,7 +2071,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "341",
@@ -1966,7 +2119,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "342",
@@ -2012,7 +2167,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "343",
@@ -2058,7 +2215,11 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [
+        "S"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "344",
@@ -2104,7 +2265,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "345",
@@ -2150,7 +2313,11 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [
+        "S"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "263",
@@ -2196,7 +2363,11 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "264",
@@ -2242,7 +2413,11 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "265",
@@ -2288,7 +2463,9 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "266",
@@ -2334,7 +2511,9 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "267",
@@ -2380,7 +2559,9 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "270",
@@ -2426,7 +2607,9 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "271",
@@ -2472,7 +2655,9 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "229",
@@ -2518,7 +2703,9 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "346",
@@ -2564,7 +2751,9 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "347",
@@ -2610,7 +2799,11 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [
+        "S"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "348",
@@ -2656,7 +2849,11 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [
+        "S"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "359",
@@ -2702,7 +2899,9 @@
       "super_category": {
         "de": "🐑 Lamm",
         "en": "🐑 Lamb"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "272",
@@ -2748,7 +2947,11 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "F",
+        "M"
+      ]
     },
     {
       "id": "273",
@@ -2794,7 +2997,10 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "F"
+      ]
     },
     {
       "id": "274",
@@ -2840,7 +3046,10 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "F"
+      ]
     },
     {
       "id": "275",
@@ -2886,7 +3095,10 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "F"
+      ]
     },
     {
       "id": "276",
@@ -2932,7 +3144,10 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "F"
+      ]
     },
     {
       "id": "277",
@@ -2978,7 +3193,11 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "F",
+        "M"
+      ]
     },
     {
       "id": "278",
@@ -3024,7 +3243,12 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "F",
+        "M",
+        "S"
+      ]
     },
     {
       "id": "279",
@@ -3070,7 +3294,12 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "F",
+        "M",
+        "S"
+      ]
     },
     {
       "id": "244",
@@ -3116,7 +3345,11 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "F",
+        "K"
+      ]
     },
     {
       "id": "282",
@@ -3162,7 +3395,12 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K",
+        "M",
+        "S"
+      ]
     },
     {
       "id": "283",
@@ -3208,7 +3446,10 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K"
+      ]
     },
     {
       "id": "284",
@@ -3254,7 +3495,10 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K"
+      ]
     },
     {
       "id": "285",
@@ -3300,7 +3544,11 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K",
+        "M"
+      ]
     },
     {
       "id": "333",
@@ -3346,7 +3594,11 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K",
+        "M"
+      ]
     },
     {
       "id": "334",
@@ -3392,7 +3644,12 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K",
+        "M",
+        "S"
+      ]
     },
     {
       "id": "354",
@@ -3438,7 +3695,12 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K",
+        "S"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "355",
@@ -3484,7 +3746,11 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "286",
@@ -3530,7 +3796,12 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K",
+        "M",
+        "S"
+      ]
     },
     {
       "id": "287",
@@ -3576,7 +3847,10 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K"
+      ]
     },
     {
       "id": "288",
@@ -3622,7 +3896,10 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K"
+      ]
     },
     {
       "id": "289",
@@ -3668,7 +3945,11 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K",
+        "M"
+      ]
     },
     {
       "id": "290",
@@ -3714,7 +3995,10 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K"
+      ]
     },
     {
       "id": "330",
@@ -3760,7 +4044,12 @@
       "super_category": {
         "de": "🦐 Seafood",
         "en": "🦐 Seafood"
-      }
+      },
+      "allergens": [
+        "K",
+        "M",
+        "S"
+      ]
     },
     {
       "id": "291",
@@ -3806,7 +4095,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "292",
@@ -3852,7 +4145,9 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "293",
@@ -3898,7 +4193,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "294",
@@ -3944,7 +4243,10 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "295",
@@ -3990,7 +4292,10 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "296",
@@ -4036,7 +4341,9 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "358",
@@ -4082,7 +4389,12 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "297",
@@ -4128,7 +4440,10 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "298",
@@ -4174,7 +4489,10 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "299",
@@ -4220,7 +4538,9 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "300",
@@ -4266,7 +4586,9 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "331",
@@ -4312,7 +4634,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "332",
@@ -4358,7 +4684,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "356",
@@ -4404,7 +4734,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "357",
@@ -4450,7 +4784,9 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "301",
@@ -4496,7 +4832,9 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "302",
@@ -4542,7 +4880,9 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "303",
@@ -4588,7 +4928,10 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "304",
@@ -4634,7 +4977,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "349",
@@ -4680,7 +5027,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "S"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "350",
@@ -4726,7 +5077,9 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "351",
@@ -4772,7 +5125,11 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [
+        "M"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "360",
@@ -4818,7 +5175,9 @@
       "super_category": {
         "de": "🌿 Veggie & Reis",
         "en": "🌿 Veggie & Rice"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "321",
@@ -4864,7 +5223,11 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "322",
@@ -4910,7 +5273,10 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "323",
@@ -4956,7 +5322,10 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "324",
@@ -5002,7 +5371,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "325",
@@ -5048,7 +5419,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "326",
@@ -5094,7 +5467,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "327",
@@ -5140,7 +5515,10 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "328",
@@ -5186,7 +5564,11 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "352",
@@ -5232,7 +5614,9 @@
       "super_category": {
         "de": "🍗 Hühnchen & Ente",
         "en": "🍗 Chicken & Duck"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "305",
@@ -5274,7 +5658,10 @@
       "super_category": {
         "de": "🫓 Brot & Extras",
         "en": "🫓 Bread & Extras"
-      }
+      },
+      "allergens": [
+        "GG"
+      ]
     },
     {
       "id": "306",
@@ -5316,7 +5703,10 @@
       "super_category": {
         "de": "🫓 Brot & Extras",
         "en": "🫓 Bread & Extras"
-      }
+      },
+      "allergens": [
+        "GG"
+      ]
     },
     {
       "id": "307",
@@ -5358,7 +5748,11 @@
       "super_category": {
         "de": "🫓 Brot & Extras",
         "en": "🫓 Bread & Extras"
-      }
+      },
+      "allergens": [
+        "GG",
+        "M"
+      ]
     },
     {
       "id": "308",
@@ -5400,7 +5794,10 @@
       "super_category": {
         "de": "🫓 Brot & Extras",
         "en": "🫓 Bread & Extras"
-      }
+      },
+      "allergens": [
+        "GG"
+      ]
     },
     {
       "id": "320",
@@ -5442,7 +5839,10 @@
       "super_category": {
         "de": "🫓 Brot & Extras",
         "en": "🫓 Bread & Extras"
-      }
+      },
+      "allergens": [
+        "GG"
+      ]
     },
     {
       "id": "340",
@@ -5484,7 +5884,11 @@
       "super_category": {
         "de": "🫓 Brot & Extras",
         "en": "🫓 Bread & Extras"
-      }
+      },
+      "allergens": [
+        "GG",
+        "M"
+      ]
     },
     {
       "id": "309",
@@ -5526,7 +5930,10 @@
       "super_category": {
         "de": "🫓 Brot & Extras",
         "en": "🫓 Bread & Extras"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "310",
@@ -5568,7 +5975,10 @@
       "super_category": {
         "de": "🫓 Brot & Extras",
         "en": "🫓 Bread & Extras"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "311",
@@ -5610,7 +6020,10 @@
       "super_category": {
         "de": "🍮 Desserts",
         "en": "🍮 Desserts"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "312",
@@ -5652,7 +6065,11 @@
       "super_category": {
         "de": "🍮 Desserts",
         "en": "🍮 Desserts"
-      }
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
     },
     {
       "id": "313",
@@ -5694,7 +6111,10 @@
       "super_category": {
         "de": "🍮 Desserts",
         "en": "🍮 Desserts"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "316",
@@ -5736,7 +6156,10 @@
       "super_category": {
         "de": "🍮 Desserts",
         "en": "🍮 Desserts"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "317",
@@ -5778,7 +6201,10 @@
       "super_category": {
         "de": "🍮 Desserts",
         "en": "🍮 Desserts"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "318",
@@ -5820,7 +6246,10 @@
       "super_category": {
         "de": "🍮 Desserts",
         "en": "🍮 Desserts"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "112",
@@ -5862,7 +6291,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "113",
@@ -5904,7 +6335,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "114",
@@ -5946,7 +6379,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "115",
@@ -5988,7 +6423,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "116",
@@ -6030,7 +6467,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "117",
@@ -6072,7 +6511,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "118",
@@ -6114,7 +6555,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "119",
@@ -6156,7 +6599,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "120",
@@ -6198,7 +6643,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "121",
@@ -6240,7 +6687,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "122",
@@ -6282,7 +6731,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "123",
@@ -6324,7 +6775,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "124",
@@ -6366,7 +6819,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "125",
@@ -6408,7 +6863,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "149",
@@ -6450,7 +6907,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "150",
@@ -6492,7 +6951,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "151",
@@ -6534,7 +6995,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "126",
@@ -6576,7 +7039,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "127",
@@ -6618,7 +7083,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "128",
@@ -6660,7 +7127,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "129",
@@ -6702,7 +7172,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "130",
@@ -6744,7 +7217,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "131",
@@ -6786,7 +7262,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "132",
@@ -6828,7 +7307,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "133",
@@ -6870,7 +7351,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "134",
@@ -6912,7 +7395,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "135",
@@ -6954,7 +7440,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "136",
@@ -6996,7 +7485,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "140",
@@ -7038,7 +7529,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "141",
@@ -7080,7 +7573,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "M"
+      ]
     },
     {
       "id": "142",
@@ -7122,7 +7618,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "143",
@@ -7164,7 +7662,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "144",
@@ -7206,7 +7706,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "145",
@@ -7248,7 +7750,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "146",
@@ -7290,7 +7794,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "176",
@@ -7332,7 +7838,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "177",
@@ -7374,7 +7882,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "178",
@@ -7416,7 +7926,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "179",
@@ -7458,7 +7970,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "180",
@@ -7500,7 +8014,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "181",
@@ -7542,7 +8058,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "192",
@@ -7584,7 +8102,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "193",
@@ -7626,7 +8146,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "194",
@@ -7668,7 +8190,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "195",
@@ -7710,7 +8234,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "196",
@@ -7752,7 +8278,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "108",
@@ -7794,7 +8322,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "109",
@@ -7836,7 +8366,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "110",
@@ -7878,7 +8410,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "111",
@@ -7920,7 +8454,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "169",
@@ -7962,7 +8498,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "170",
@@ -8004,7 +8542,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "171",
@@ -8046,7 +8586,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "172",
@@ -8088,7 +8630,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "173",
@@ -8130,7 +8674,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "174",
@@ -8172,7 +8718,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "175",
@@ -8214,7 +8762,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "169",
@@ -8256,7 +8806,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "100",
@@ -8298,7 +8850,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "GG"
+      ]
     },
     {
       "id": "101",
@@ -8340,7 +8895,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "GG"
+      ]
     },
     {
       "id": "102",
@@ -8382,7 +8940,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "GG"
+      ]
     },
     {
       "id": "103",
@@ -8424,7 +8985,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "GG"
+      ]
     },
     {
       "id": "104",
@@ -8466,7 +9030,11 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "GG"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "105",
@@ -8508,7 +9076,10 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "GG"
+      ]
     },
     {
       "id": "106",
@@ -8550,7 +9121,11 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "GG"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "107",
@@ -8592,7 +9167,11 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [
+        "GG"
+      ],
+      "allergen_source": "inferred_from_dish_text"
     },
     {
       "id": "201",
@@ -8634,7 +9213,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "202",
@@ -8676,7 +9257,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "203",
@@ -8718,7 +9301,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "204",
@@ -8760,7 +9345,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "205",
@@ -8802,7 +9389,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "206",
@@ -8844,7 +9433,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "207",
@@ -8886,7 +9477,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "208",
@@ -8928,7 +9521,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "209",
@@ -8970,7 +9565,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "210",
@@ -9012,7 +9609,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "211",
@@ -9054,7 +9653,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     },
     {
       "id": "212",
@@ -9096,7 +9697,9 @@
       "super_category": {
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
-      }
+      },
+      "allergens": [],
+      "allergen_source": "none_detected_in_pdf_or_inference"
     }
   ],
   "pairing_rules": [
@@ -12911,5 +13514,6 @@
         "en": "Pairs well with onion bhajis, garlic naan, and a glass of red wine."
       }
     }
-  ]
+  ],
+  "allergen_extraction_note": "All allergens are stored in each menu item under 'allergens' and mapped by the single root-level 'allergen_legend'. Codes were taken from the embedded PDF menu markers where clearly readable; fallbacks were retained only where the PDF marker was unclear."
 }
