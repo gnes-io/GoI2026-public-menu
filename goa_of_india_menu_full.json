@@ -19,6 +19,30 @@
     "S": {
       "de": "Schalenfrüchte",
       "en": "Tree nuts"
+    },
+    "SU": {
+      "de": "Schwefeldioxid / Sulfite",
+      "en": "Sulphites"
+    },
+    "1": {
+      "de": "Farbstoff",
+      "en": "Colouring"
+    },
+    "2": {
+      "de": "Konservierungsstoff",
+      "en": "Preservative"
+    },
+    "5": {
+      "de": "Antioxidationsmittel",
+      "en": "Antioxidant"
+    },
+    "9": {
+      "de": "Koffeinhaltig",
+      "en": "Contains caffeine"
+    },
+    "10": {
+      "de": "Chininhaltig",
+      "en": "Contains quinine"
     }
   },
   "menu_items": [
@@ -6292,8 +6316,11 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "1",
+        "9"
+      ],
+      "allergen_source": "pdf_declared_codes"
     },
     {
       "id": "113",
@@ -6336,8 +6363,11 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "1",
+        "9"
+      ],
+      "allergen_source": "pdf_declared_codes"
     },
     {
       "id": "114",
@@ -6380,8 +6410,12 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "1",
+        "2",
+        "5"
+      ],
+      "allergen_source": "pdf_declared_codes"
     },
     {
       "id": "115",
@@ -6424,8 +6458,12 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "1",
+        "2",
+        "5"
+      ],
+      "allergen_source": "pdf_declared_codes"
     },
     {
       "id": "116",
@@ -6468,8 +6506,12 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "1",
+        "2",
+        "9"
+      ],
+      "allergen_source": "pdf_declared_codes"
     },
     {
       "id": "117",
@@ -6512,8 +6554,12 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "1",
+        "2",
+        "9"
+      ],
+      "allergen_source": "pdf_declared_codes"
     },
     {
       "id": "118",
@@ -6776,8 +6822,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "10"
+      ],
+      "allergen_source": "pdf_declared_codes"
     },
     {
       "id": "124",
@@ -7839,8 +7887,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "177",
@@ -7883,8 +7933,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "178",
@@ -7927,8 +7979,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "179",
@@ -7971,8 +8025,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "180",
@@ -8015,8 +8071,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "181",
@@ -8059,8 +8117,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "192",
@@ -8103,8 +8163,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "193",
@@ -8147,8 +8209,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "194",
@@ -8191,8 +8255,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "195",
@@ -8235,8 +8301,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "196",
@@ -8279,8 +8347,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "108",
@@ -8323,8 +8393,11 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU",
+        "2"
+      ],
+      "allergen_source": "pdf_declared_codes"
     },
     {
       "id": "109",
@@ -8367,8 +8440,11 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU",
+        "2"
+      ],
+      "allergen_source": "pdf_declared_codes"
     },
     {
       "id": "110",
@@ -8411,8 +8487,11 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU",
+        "2"
+      ],
+      "allergen_source": "pdf_declared_codes"
     },
     {
       "id": "111",
@@ -8455,8 +8534,11 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU",
+        "2"
+      ],
+      "allergen_source": "pdf_declared_codes"
     },
     {
       "id": "169",
@@ -8499,8 +8581,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "170",
@@ -8543,8 +8627,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "171",
@@ -8587,8 +8673,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "172",
@@ -8631,8 +8719,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "173",
@@ -8675,8 +8765,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "174",
@@ -8719,8 +8811,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "175",
@@ -8763,8 +8857,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "169",
@@ -8807,8 +8903,10 @@
         "de": "🍹 Getränke",
         "en": "🍹 Drinks"
       },
-      "allergens": [],
-      "allergen_source": "none_detected_in_pdf_or_inference"
+      "allergens": [
+        "SU"
+      ],
+      "allergen_source": "pdf_menu_marker_inferred_from_wine_section"
     },
     {
       "id": "100",
