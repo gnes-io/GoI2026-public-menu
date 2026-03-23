@@ -5933,7 +5933,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Einfacher Joghurt. ",
@@ -5978,7 +5978,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Joghurt mit Gurke. ",
@@ -6023,7 +6023,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Eine Spezialmischung aus Kulfi und Obst. ",
@@ -6068,7 +6068,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Honigmilch, halbgefroren mit Mandeln und Pistazien dekoriert. ",
@@ -6114,7 +6114,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Mangocreme mit Vanilleeis. ",
@@ -6159,7 +6159,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Mango mit Vanilleeis. ",
@@ -6204,7 +6204,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Vanilleeis mit Obst. ",
@@ -6249,7 +6249,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Vanilleeis, Orangensaft und Rum. ",
@@ -6294,7 +6294,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Coca-Cola 0,2 l ",
@@ -6341,7 +6341,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Coca-Cola 0,4 l ",
@@ -6388,7 +6388,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Fanta 0,2 l ",
@@ -6436,7 +6436,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Fanta 0,4 l ",
@@ -6484,7 +6484,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Spezi 0,2 l ",
@@ -6532,7 +6532,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Spezi 0,4 l ",
@@ -6580,7 +6580,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Tafelwasser 0,2 l ",
@@ -6624,7 +6624,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Tafelwasser 0,4 l ",
@@ -6668,7 +6668,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Selters, Flasche 0,75 l ",
@@ -6712,7 +6712,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Apfelsaftschorle oder Johannisbeerschorle 0,2 l ",
@@ -6756,7 +6756,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Apfelsaftschorle oder Johannisbeerschorle 0,4 l ",
@@ -6800,7 +6800,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Bitterlemon 0,4 l ",
@@ -6846,7 +6846,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Mangoschorle oder Guavenschorle 0,4 l ",
@@ -6890,7 +6890,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Orangensaftschorle 0,4 l ",
@@ -6934,7 +6934,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Orangensaft 0,25 l ",
@@ -6978,7 +6978,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Apfelsaft 0,25 l ",
@@ -7022,7 +7022,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Traubensaft, rot, 0,25 l ",
@@ -7066,7 +7066,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Mangosaft 0,25 l ",
@@ -7110,7 +7110,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Guavensaft 0,25 l ",
@@ -7154,7 +7154,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Joghurtgetränk mit Zucker. ",
@@ -7199,7 +7199,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Joghurtgetränk mit indischen Gewürzen. ",
@@ -7244,7 +7244,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Mango Lassi 0,25 l ",
@@ -7289,7 +7289,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Mango Lassi groß 0,4 l ",
@@ -7334,7 +7334,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Schwarztee, Kännchen ",
@@ -7378,7 +7378,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Schwarztee, Glas ",
@@ -7422,7 +7422,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Kännchen Tee (Cay) ",
@@ -7467,7 +7467,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Assam Tee mit Spezialgewürzen, Kardamom, mit Milch. ",
@@ -7512,7 +7512,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Jasmin Tee, Glas ",
@@ -7556,7 +7556,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Kaffee, Tasse ",
@@ -7600,7 +7600,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Cappuccino, Tasse ",
@@ -7645,7 +7645,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Espresso ",
@@ -7689,7 +7689,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Espresso Dopio ",
@@ -7733,7 +7733,7 @@
         "is_bird": true,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Hagebuttentee ",
@@ -7777,7 +7777,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Pfefferminztee ",
@@ -7821,7 +7821,7 @@
         "is_bird": true,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Kamillentee ",
@@ -7865,7 +7865,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Trocken. ",
@@ -7911,7 +7911,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Italien, Abf. Fratelli Paqua, trocken, frisch. ",
@@ -7957,7 +7957,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Italien, trocken. ",
@@ -8003,7 +8003,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Chile, Abf. Agricola Salve S. A., würzig, körperreich, trocken. ",
@@ -8049,7 +8049,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Rheinland Pfalz, halbtrocken. ",
@@ -8095,7 +8095,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Rheinland Pfalz, Qualitätswein, trocken. ",
@@ -8141,7 +8141,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Trocken. ",
@@ -8187,7 +8187,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Blauer Portugieser, Rheinland Pfalz, Qualitätswein. ",
@@ -8233,7 +8233,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Frankreich, Burgund, trocken. ",
@@ -8279,7 +8279,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Frankreich, trocken. ",
@@ -8325,7 +8325,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Qualitätswein aus Italien, trocken. ",
@@ -8371,7 +8371,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Rotweinschorle, süß oder sauer, 0,2 l ",
@@ -8418,7 +8418,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Rotweinschorle, süß oder sauer, 0,4 l ",
@@ -8465,7 +8465,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Weißweinschorle, süß oder sauer, 0,2 l ",
@@ -8512,7 +8512,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Weißweinschorle, süß oder sauer, 0,4 l ",
@@ -8559,7 +8559,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Vino de la India, Qualitätswein, Anbaugebiet Origen Nashik, Shiraz, trocken. ",
@@ -8605,7 +8605,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Tafelwein aus Frankreich, trocken. ",
@@ -8651,7 +8651,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Qualitätswein, Burgund, trocken. ",
@@ -8697,7 +8697,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Tafelwein aus Italien, trocken. ",
@@ -8743,7 +8743,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Italien, Abf. Fratelli Pasqua, trocken, frisch. ",
@@ -8789,7 +8789,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Italia, trocken. ",
@@ -8835,7 +8835,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Chile, Abf. Agricola Salve S.A., würzig, körperreich, trocken. ",
@@ -8881,7 +8881,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Vino de la India, Qualitätswein, Anbaugebiet Origen Nashik, Shiraz, trocken. ",
@@ -8927,7 +8927,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Clausthaler Alkoholfrei Pils 0,33 l ",
@@ -8972,7 +8972,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Pils vom Faß 0,4 l ",
@@ -9017,7 +9017,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Pils vom Faß 0,3 l ",
@@ -9062,7 +9062,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Export Bier 0,5 l ",
@@ -9107,7 +9107,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Hefeweizen oder Dunkles Weizen oder Alkoholfrei Hefeweizen 0,5 l ",
@@ -9153,7 +9153,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Kristallweizen 0,5 l ",
@@ -9198,7 +9198,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Radler 0,4 l ",
@@ -9244,7 +9244,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "Original Indisches Bier 0,33 l ",
@@ -9290,7 +9290,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "4 cl. ",
@@ -9334,7 +9334,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "0,1 l. ",
@@ -9378,7 +9378,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "4 cl. ",
@@ -9422,7 +9422,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "4 cl. ",
@@ -9466,7 +9466,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "4 cl. ",
@@ -9510,7 +9510,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "4 cl. ",
@@ -9554,7 +9554,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "4 cl. ",
@@ -9598,7 +9598,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "5 cl. ",
@@ -9642,7 +9642,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "5 cl. ",
@@ -9686,7 +9686,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "5 cl. ",
@@ -9730,7 +9730,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "5 cl. ",
@@ -9774,7 +9774,7 @@
         "is_bird": false,
         "is_lamb_based": false
       },
-      "spice_level": 1,
+      "spice_level": 0,
       "status": "available",
       "vibe_story": {
         "de": "5 cl. ",
