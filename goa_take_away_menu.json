@@ -1,0 +1,6894 @@
+{
+  "allergen_legend": {
+    "GG": {
+      "de": "Glutenhaltiges Getreide",
+      "en": "Gluten containing cereals"
+    },
+    "M": {
+      "de": "Milch / Laktose",
+      "en": "Milk / lactose"
+    },
+    "F": {
+      "de": "Fisch",
+      "en": "Fish"
+    },
+    "K": {
+      "de": "Krebstiere",
+      "en": "Crustaceans"
+    },
+    "S": {
+      "de": "Schalenfrüchte",
+      "en": "Tree nuts"
+    },
+    "SU": {
+      "de": "Schwefeldioxid / Sulfite",
+      "en": "Sulphites"
+    },
+    "1": {
+      "de": "Farbstoff",
+      "en": "Colouring"
+    },
+    "2": {
+      "de": "Konservierungsstoff",
+      "en": "Preservative"
+    },
+    "5": {
+      "de": "Antioxidationsmittel",
+      "en": "Antioxidant"
+    },
+    "9": {
+      "de": "Koffeinhaltig",
+      "en": "Contains caffeine"
+    },
+    "10": {
+      "de": "Chininhaltig",
+      "en": "Contains quinine"
+    }
+  },
+  "menu_items": [
+    {
+      "id": "1",
+      "category": {
+        "de": "Warme Vorspeisen",
+        "en": "Hot Starters"
+      },
+      "name": {
+        "de": "Papadam Knusprig (2 Stück) + Mint Soße",
+        "en": "Papadam, 2 pieces + mint sauce"
+      },
+      "price": 2.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": false,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hauchdünner orientalisch gewürzter Linsenfladen. ",
+        "en": "Wafer thin lentil wafer seasoned in an oriental style."
+      },
+      "classification": {
+        "course_type": "starter",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "starter",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart"
+        ]
+      },
+      "super_category": {
+        "de": "🥘 Vorspeisen",
+        "en": "🥘 Starters"
+      },
+      "allergens": []
+    },
+    {
+      "id": "2",
+      "category": {
+        "de": "Warme Vorspeisen",
+        "en": "Hot Starters"
+      },
+      "name": {
+        "de": "Goa Shahi Mix Pakoras + Mint Soße",
+        "en": "Goa Mixed Pakoras + mint sauce"
+      },
+      "price": 5.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": false,
+        "is_sea_food": true,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Frisches gemischtes Gemüse, Fisch und Hähnchenbrustfilet, gebacken im Teigmantel aus Kichererbsenmehl. ",
+        "en": "Fresh mixed vegetables, fish, and chicken breast fillet, dipped in chickpea flour batter and fried."
+      },
+      "classification": {
+        "course_type": "starter",
+        "protein_type": "seafood",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "starter",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart"
+        ]
+      },
+      "super_category": {
+        "de": "🥘 Vorspeisen",
+        "en": "🥘 Starters"
+      },
+      "allergens": [
+        "F"
+      ]
+    },
+    {
+      "id": "3",
+      "category": {
+        "de": "Warme Vorspeisen",
+        "en": "Hot Starters"
+      },
+      "name": {
+        "de": "Vegetable Pakoras + Mint Soße",
+        "en": "Vegetable Pakoras + mint sauce"
+      },
+      "price": 5.5,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": false,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Frisches gemischtes Gemüse, gebacken im Teigmantel aus Kichererbsenmehl. ",
+        "en": "Fresh mixed vegetables, dipped in chickpea flour batter and fried."
+      },
+      "classification": {
+        "course_type": "starter",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "starter",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart"
+        ]
+      },
+      "super_category": {
+        "de": "🥘 Vorspeisen",
+        "en": "🥘 Starters"
+      },
+      "allergens": []
+    },
+    {
+      "id": "4",
+      "category": {
+        "de": "Warme Vorspeisen",
+        "en": "Hot Starters"
+      },
+      "name": {
+        "de": "Onion Bhajis + Mint Soße",
+        "en": "Onion Rings + Mint Sauce"
+      },
+      "price": 5.5,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zwiebelringe, kräftig gewürzt, gebacken im Teigmantel aus Kichererbsenmehl. ",
+        "en": "Onion rings, boldly seasoned, dipped in chickpea flour batter and fried."
+      },
+      "classification": {
+        "course_type": "starter",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "starter",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart"
+        ]
+      },
+      "super_category": {
+        "de": "🥘 Vorspeisen",
+        "en": "🥘 Starters"
+      },
+      "allergens": []
+    },
+    {
+      "id": "5",
+      "category": {
+        "de": "Warme Vorspeisen",
+        "en": "Hot Starters"
+      },
+      "name": {
+        "de": "Fischpakoras + Mint Soße",
+        "en": "Fish Pakoras + mint sauce"
+      },
+      "price": 6.5,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": false,
+        "is_sea_food": true,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zartes Fischfilet, gebacken im Teigmantel aus Kichererbsenmehl. ",
+        "en": "Tender fish fillet, dipped in chickpea flour batter and fried."
+      },
+      "classification": {
+        "course_type": "starter",
+        "protein_type": "seafood",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "starter",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart"
+        ]
+      },
+      "super_category": {
+        "de": "🥘 Vorspeisen",
+        "en": "🥘 Starters"
+      },
+      "allergens": [
+        "F"
+      ]
+    },
+    {
+      "id": "6",
+      "category": {
+        "de": "Warme Vorspeisen",
+        "en": "Hot Starters"
+      },
+      "name": {
+        "de": "Chicken Pakora + Mint Soße",
+        "en": "Chicken Pakora + Mint Sauce"
+      },
+      "price": 6.5,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": false,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hähnchenbrustfilet, gebacken im Teigmantel aus Kichererbsenmehl. ",
+        "en": "Chicken breast fillet, dipped in chickpea flour batter and fried."
+      },
+      "classification": {
+        "course_type": "starter",
+        "protein_type": "bird",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "starter",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart"
+        ]
+      },
+      "super_category": {
+        "de": "🥘 Vorspeisen",
+        "en": "🥘 Starters"
+      },
+      "allergens": []
+    },
+    {
+      "id": "7",
+      "category": {
+        "de": "Suppen & Salate",
+        "en": "Soups & Salads"
+      },
+      "name": {
+        "de": "Goa Salat",
+        "en": "Goa Salad"
+      },
+      "price": 4.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "nach Art des Hauses, mit Tomaten, Gurken, grünem Salat und Panir, indischem Käse.",
+        "en": "House style salad with tomatoes, cucumber, green salad, and paneer, Indian cheese."
+      },
+      "classification": {
+        "course_type": "starter",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "starter",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart"
+        ]
+      },
+      "super_category": {
+        "de": "🥘 Vorspeisen",
+        "en": "🥘 Starters"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "8",
+      "category": {
+        "de": "Suppen & Salate",
+        "en": "Soups & Salads"
+      },
+      "name": {
+        "de": "Gemischter Salat",
+        "en": "Mixed Salad"
+      },
+      "price": 4.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Gemischter Salat nach Saison.",
+        "en": "Mixed seasonal salad."
+      },
+      "classification": {
+        "course_type": "starter",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "starter",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart"
+        ]
+      },
+      "super_category": {
+        "de": "🥘 Vorspeisen",
+        "en": "🥘 Starters"
+      },
+      "allergens": []
+    },
+    {
+      "id": "9",
+      "category": {
+        "de": "Tandoori Spezialitäten",
+        "en": "Tandoori Specialties"
+      },
+      "name": {
+        "de": "Chicken Hariyali Tikka + Mint Soße",
+        "en": "Chicken Hariyali Tikka + mint sauce"
+      },
+      "price": 15.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hühnchenfilet, 24 Stunden in Minzmarinade eingelegt und im Tandoor am Spieß gegrillt.",
+        "en": "Chicken fillet marinated for 24 hours in a mint marinade and grilled on a skewer in the tandoor."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "tandoori",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🔥 Tandoori",
+        "en": "🔥 Tandoori"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "10",
+      "category": {
+        "de": "Tandoori Spezialitäten",
+        "en": "Tandoori Specialties"
+      },
+      "name": {
+        "de": "Chicken Tikka + Mint Soße",
+        "en": "Chicken Tikka + mint sauce"
+      },
+      "price": 15.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hähnchenbrustfilet, 24 Stunden eingelegt in Spezialmarinade, im Tandoor am Spieß gegrillt. ",
+        "en": "Chicken breast fillet, marinated for 24 hours in special marinade, grilled on a skewer in the tandoor."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "tandoori",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🔥 Tandoori",
+        "en": "🔥 Tandoori"
+      },
+      "allergens": []
+    },
+    {
+      "id": "11",
+      "category": {
+        "de": "Tandoori Spezialitäten",
+        "en": "Tandoori Specialties"
+      },
+      "name": {
+        "de": "Lamb Tikka + Mint Soße",
+        "en": "Lamb Tikka + mint sauce"
+      },
+      "price": 15.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zartes Lammfilet in Joghurt mariniert und im Tandoor am Spieß gegrillt. ",
+        "en": "Tender lamb fillet in yogurt marinated and grilled on a skewer in the tandoor."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "tandoori",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🔥 Tandoori",
+        "en": "🔥 Tandoori"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "13",
+      "category": {
+        "de": "Tandoori Spezialitäten",
+        "en": "Tandoori Specialties"
+      },
+      "name": {
+        "de": "Goa Shahi Mix Grill + Mint Soße",
+        "en": "Goa Mixed Grill + mint sauce"
+      },
+      "price": 15.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Eine Zusammenstellung verschiedener Tandoori Spezialitäten, mit Lammfilet und Hühnchenbrustfilet.",
+        "en": "A mixed tandoori platter with lamb fillet and chicken breast fillet."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "mixed",
+        "sauce_style": "tandoori",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🔥 Tandoori",
+        "en": "🔥 Tandoori"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "15",
+      "category": {
+        "de": "Biriany",
+        "en": "Biryani"
+      },
+      "name": {
+        "de": "Goa Mixed Biryani",
+        "en": "Goa Mixed Biryani"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Lamm, Hähnchenbrustfleisch und Gemüse gebraten mit feinen Gewürzen und feinem Basmatireis, angerichtet mit Panir, Mandeln und Rosinen. ",
+        "en": "Goa Mixed Biryani."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "mixed",
+        "sauce_style": "biryani",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍚 Reisgerichte",
+        "en": "🍚 Rice Dishes"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "12",
+      "category": {
+        "de": "Biriany",
+        "en": "Biryani"
+      },
+      "name": {
+        "de": "Chicken Biryani",
+        "en": "Chicken Biryani"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hühnchenbrustfilet zubereitet mit fein abgestimmten Gewürzen und Basmatireis, angerichtet mit Panir, Mandeln und Rosinen. ",
+        "en": "Chicken breast fillet prepared with finely abgestimmten spices and basmati rice, served with paneer, almonds and raisins."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "biryani",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍚 Reisgerichte",
+        "en": "🍚 Rice Dishes"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "17",
+      "category": {
+        "de": "Biriany",
+        "en": "Biryani"
+      },
+      "name": {
+        "de": "Vegetable Biryani",
+        "en": "Vegetable Biryani"
+      },
+      "price": 9.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Frisches gemischtes Gemüse nach Jahreszeit, mit mild abgestimmten Gewürzen und feinem Basmatireis, angerichtet mit Panir, Mandeln und Rosinen. ",
+        "en": "Vegetable Biryani."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "biryani",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍚 Reisgerichte",
+        "en": "🍚 Rice Dishes"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "14",
+      "category": {
+        "de": "Biriany",
+        "en": "Biryani"
+      },
+      "name": {
+        "de": "Lamb Biryani",
+        "en": "Lamb Biryani"
+      },
+      "price": 12.5,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Lammfleisch zubereitet mit fein abgestimmten Gewürzen und Basmatireis, angerichtet mit Panir, Mandeln und Rosinen. ",
+        "en": "Lamb prepared with finely abgestimmten spices and basmati rice, served with paneer, almonds and raisins."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "biryani",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍚 Reisgerichte",
+        "en": "🍚 Rice Dishes"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "19",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Goa Chicken Masala",
+        "en": "Goa Chicken Masala"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hühnchenbrustfilet, fein mariniert mit Spezialgewürzen, mit Obst, Panir, Mandeln und Rosinen, angerichtet in milder Mandelsoße. ",
+        "en": "Chicken breast fillet, finely marinated with special spices, with fruit, paneer, almonds, and raisins, served in mild almond sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "masala",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "20",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Moghulai",
+        "en": "Chicken Moghulai"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Ein Gericht aus der königlichen Moghulküche. Hühnchenbrustfilet zubereitet mit feinen Gewürzen, Mandeln und Cashewkernen, angerichtet in milder Soße. ",
+        "en": "A dish from the royal Mughal kitchen. Chicken breast fillet prepared with fine spices, almonds and cashews, served in mild sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "moghulai",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": [
+        "S"
+      ]
+    },
+    {
+      "id": "21",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Butter Chicken",
+        "en": "Butter Chicken"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Saftiges Tandoori Hühnchenbrustfilet, kurz gegrillt und fertig gegart mit leckeren Gewürzen in einer sahnigen Tomatencremesoße. ",
+        "en": "Juicy Tandoori chicken breast fillet, briefly grilled and fertig gegart with leckeren spices in a creamy tomato cream sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "butter",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "22",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Palak",
+        "en": "Chicken Palak"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hühnchenbrustfilet, natur, mit Blattspinat, zubereitet nach indischer Art mit Ingwer und frischen Kräutern. ",
+        "en": "Chicken Saag. Prepared with spinach, ginger."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "palak",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": []
+    },
+    {
+      "id": "23",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Palak mittlere Portion",
+        "en": "Chicken Palak, medium portion"
+      },
+      "price": 6.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hühnchenbrustfilet, natur, mit Blattspinat, zubereitet nach indischer Art mit Ingwer und frischen Kräutern. Mittlere Portion. ",
+        "en": "Chicken Saag. Prepared with spinach, ginger. Medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "palak",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": []
+    },
+    {
+      "id": "24",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Jalfrezi",
+        "en": "Chicken Jalfrezi"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zartes Hühnchenbrustfilet, mit frischem Gemüse nach Saison, in würziger Soße. ",
+        "en": "Tender chicken breast fillet, with fresh seasonal vegetablesal, in spiced sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "jalfrezi",
+        "flavor_weight": "medium",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": []
+    },
+    {
+      "id": "25",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Jalfrezi mittlere Portion",
+        "en": "Chicken Jalfrezi, medium portion"
+      },
+      "price": 6.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zartes Hühnchenbrustfilet, mit frischem Gemüse nach Saison, in würziger Soße. Mittlere Portion. ",
+        "en": "Tender chicken breast fillet, with fresh seasonal vegetablesal, in spiced sauce. Medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "jalfrezi",
+        "flavor_weight": "medium",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": []
+    },
+    {
+      "id": "26",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chilly Chicken (scharf)",
+        "en": "Chilli Chicken, spicy"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 2,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hühnchenbrustfilet, scharf gewürzt mit frischen Gewürzen, Zwiebeln, Paprika, Ingwer und Knoblauch, angerichtet nach nordindischer Art. ",
+        "en": "Chicken breast fillet, spicy seasoned with fresh spices, onions, bell peppers, ginger and garlic, served in North Indian style."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "chilli",
+        "flavor_weight": "medium",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": []
+    },
+    {
+      "id": "27",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Madras (scharf)",
+        "en": "Chicken Madras, spicy"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 2,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hühnchenbrustfilet zubereitet mit Spezialgewürzen, angerichtet in roter Kokosnussoße. ",
+        "en": "Chicken breast fillet prepared with special spices, served in a red coconut sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "madras",
+        "flavor_weight": "medium",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": []
+    },
+    {
+      "id": "28",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Madras mittlere Portion, scharf",
+        "en": "Chicken Madras, medium portion, spicy"
+      },
+      "price": 7.5,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 2,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hühnchenbrustfilet zubereitet mit Spezialgewürzen, angerichtet in roter Kokosnussoße. Mittlere Portion. ",
+        "en": "Chicken breast fillet prepared with special spices, served in a red coconut sauce. Medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "madras",
+        "flavor_weight": "medium",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": []
+    },
+    {
+      "id": "29",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Vindaloo (scharf)",
+        "en": "Chicken Vindaloo, spicy"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 3,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hühnchenbrustfilet zubereitet mit Spezialgewürzen, angerichtet mit Kartoffeln in roter Kokosnussoße. ",
+        "en": "Chicken breast fillet prepared with special spices, served with potatoes in a red coconut sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "vindaloo",
+        "flavor_weight": "medium",
+        "heat_level": "very_spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": []
+    },
+    {
+      "id": "30",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Curry",
+        "en": "Chicken Curry"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hühnchenbrustfilet zubereitet mit feinen Gewürzen, ganz nach nordischer Art. ",
+        "en": "Chicken breast fillet prepared with fine spices, completely in nordischer style."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": []
+    },
+    {
+      "id": "31",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Dal",
+        "en": "Chicken Dal"
+      },
+      "price": 10.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zubereitet aus verschiedenen indischen Linsen mit zartem Hühnchenbrustfilet, etwas Knoblauch und Ingwer. ",
+        "en": "Chicken Dal. Prepared with ginger, garlic, lentils."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "dal",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": []
+    },
+    {
+      "id": "32",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Dal mittlere Portion",
+        "en": "Chicken Dal, medium portion"
+      },
+      "price": 6.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zubereitet aus verschiedenen indischen Linsen mit zartem Hühnchenbrustfilet, etwas Knoblauch und Ingwer. Mittlere Portion. ",
+        "en": "Chicken Dal. Prepared with ginger, garlic, lentils. Medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "dal",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": []
+    },
+    {
+      "id": "53",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Korma",
+        "en": "Chicken Korma"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Ein Gericht aus der köstlichen Goa Küche. Hühnchenbrustfilet wird in einer milden Soße aus Gewürzen, Sahne, Mandeln, Kokosnuss und Cashew zubereitet. ",
+        "en": "A dish from the Goa kitchen. Chicken breast fillet is in a mild sauce from spices, cream, almonds, coconut and cashews prepared."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "korma",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "56",
+      "category": {
+        "de": "Hühnchen Spezialitäten",
+        "en": "Chicken Specialties"
+      },
+      "name": {
+        "de": "Chicken Mango",
+        "en": "Chicken Mango"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": true,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zartes Hühnchenbrustfilet, in einer Mangocremesoße, mit frischen Mangostücken. ",
+        "en": "Tender chicken breast fillet, in a mango cream sauce with fresh mango pieces."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "bird",
+        "sauce_style": "mango",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍗 Hühnchen & Ente",
+        "en": "🍗 Chicken & Duck"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "33",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Goa Lamb Masala",
+        "en": "Goa Lamb Masala"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Lammfleisch fein mariniert mit Spezialgewürzen, mit Obst, Panir, Mandeln und Rosinen angerichtet in milder Mandelsoße. ",
+        "en": "Lamb finely marinated with special spices, with fruit, paneer, almonds, and raisins, served in a mild almond sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "masala",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "34",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Moghulai",
+        "en": "Lamb Moghulai"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Ein Gericht aus der königlichen Moghulküche. Zartes Lammfleisch zubereitet mit feinen Gewürzen, Mandeln und Cashewkernen, angerichtet in milder Soße. ",
+        "en": "A dish from the royal Mughal kitchen. Tender lamb prepared with fine spices, almonds and cashews, served in mild sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "moghulai",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": [
+        "S"
+      ]
+    },
+    {
+      "id": "35",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Korma",
+        "en": "Lamb Korma"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Ein Gericht aus der köstlichen Goa Küche. Lammfleisch wird in einer milden Soße aus Gewürzen, Sahne, Mandeln, Kokosnuss und Cashewkernen zubereitet. ",
+        "en": "A dish from the Goa kitchen. Lamb is in a mild sauce from spices, cream, almonds, coconut and cashews prepared."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "korma",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "36",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Palak",
+        "en": "Lamb Palak"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Lammfleisch mit Blattspinat, zubereitet nach indischer Art, mit Ingwer und frischen Kräutern. ",
+        "en": "Lamb Palak. Prepared with spinach, ginger, lamb."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "palak",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "37",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Saag mittlere Portion",
+        "en": "Lamb Saag, medium portion"
+      },
+      "price": 7.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Lammfleisch mit Blattspinat, zubereitet nach indischer Art, mit Ingwer und frischen Kräutern. Mittlere Portion. ",
+        "en": "Lamb Palak. Prepared with spinach, ginger, lamb. Medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "palak",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "38",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Bhuna",
+        "en": "Lamb Bhuna"
+      },
+      "price": 14.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zartes Lammfleisch zubereitet mit einer Mischung aus verschiedenen Gewürzen, Zwiebeln, Ingwer, Knoblauch und Tomaten. ",
+        "en": "Lamb Bhuna. Prepared with tomatoes, ginger, garlic, onions."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "bhuna",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "39",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Madras (scharf)",
+        "en": "Lamb Madras, spicy"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 2,
+      "status": "available",
+      "vibe_story": {
+        "de": "Lammfleisch zubereitet mit Spezialgewürzen, angerichtet in roter Kokosnussoße. ",
+        "en": "Lamb prepared with special spices, served in a red coconut sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "madras",
+        "flavor_weight": "medium",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "40",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Madras mittlere Portion, scharf",
+        "en": "Lamb Madras, medium portion, spicy"
+      },
+      "price": 7.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 2,
+      "status": "available",
+      "vibe_story": {
+        "de": "Lammfleisch zubereitet mit Spezialgewürzen, angerichtet in roter Kokosnussoße. Mittlere Portion. ",
+        "en": "Lamb prepared with special spices, served in a red coconut sauce. Medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "madras",
+        "flavor_weight": "medium",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "41",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Vindaloo (sehr scharf)",
+        "en": "Lamb Vindaloo, very spicy"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 3,
+      "status": "available",
+      "vibe_story": {
+        "de": "Lammfleisch zubereitet mit Spezialgewürzen, angerichtet mit Kartoffeln in roter Kokosnussoße. ",
+        "en": "Lamb prepared with special spices, served with potatoes in a red coconut sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "vindaloo",
+        "flavor_weight": "medium",
+        "heat_level": "very_spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "42",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Makhani",
+        "en": "Lamb Makhani"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zartes Lammfleisch in würziger Tomatencremesoße. ",
+        "en": "Tender lamb in spiced tomato cream sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "butter",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "43",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Dal",
+        "en": "Lamb Dal"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Indisches Nationalgericht. Zubereitet aus verschiedenen indischen Linsen, mit fein mariniertem, zartem Lammfleisch. ",
+        "en": "Lamb Dal. Prepared with lentils, lamb."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "dal",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "44",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Dal mittlere Portion",
+        "en": "Lamb Dal, medium portion"
+      },
+      "price": 6.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Indisches Nationalgericht. Zubereitet aus verschiedenen indischen Linsen, mit fein mariniertem, zartem Lammfleisch. Mittlere Portion. ",
+        "en": "Lamb Dal. Prepared with lentils, lamb. Medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "dal",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "45",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Vegetable",
+        "en": "Lamb with Vegetables"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zartes Lammfleisch, fein mariniert, mit frischem Gemüse nach Jahreszeit, angerichtet in einer milden Soße. ",
+        "en": "Lamb with Vegetables. Prepared with vegetables, lamb."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "vegetable",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "46",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Lamb Vegetable mittlere Portion",
+        "en": "Lamb Vegetable, medium portion"
+      },
+      "price": 7.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zartes Lammfleisch, fein mariniert, mit frischem Gemüse nach Jahreszeit, angerichtet in einer milden Soße. Mittlere Portion. ",
+        "en": "Lamb with Vegetables. Prepared with vegetables, lamb. Medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "vegetable",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "47",
+      "category": {
+        "de": "Meeresfrüchte Spezialitäten",
+        "en": "Seafood Specialties"
+      },
+      "name": {
+        "de": "Goa Fish Masala",
+        "en": "Goa Fish Masala"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": true,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Fischfilet fein mariniert mit Spezialgewürzen, mit Obst, Panir, Mandeln und Rosinen, angerichtet in milder Mandelsoße. ",
+        "en": "Fish fillet finely marinated with special spices, with fruit, paneer, almonds, and raisins, served in mild almond sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "seafood",
+        "sauce_style": "masala",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🦐 Seafood",
+        "en": "🦐 Seafood"
+      },
+      "allergens": [
+        "F",
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "48",
+      "category": {
+        "de": "Meeresfrüchte Spezialitäten",
+        "en": "Seafood Specialties"
+      },
+      "name": {
+        "de": "Fish Bhuna",
+        "en": "Fish Bhuna"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": true,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Fischfilet, fein gewürzt, zubereitet mit Tomaten, Paprika, Ingwer und frischen Kräutern in pikanter Soße. ",
+        "en": "Fish fillet, finely seasoned, prepared with tomatoes, bell peppers, ginger and fresh herbs in piquant sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "seafood",
+        "sauce_style": "bhuna",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🦐 Seafood",
+        "en": "🦐 Seafood"
+      },
+      "allergens": [
+        "F"
+      ]
+    },
+    {
+      "id": "49",
+      "category": {
+        "de": "Meeresfrüchte Spezialitäten",
+        "en": "Seafood Specialties"
+      },
+      "name": {
+        "de": "Fisch Jalfrezi",
+        "en": "Fish Jalfrezi"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": true,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Zartes Rotbarschfilet, mit frischem Gemüse nach Saison in feiner Tomatencremesoße. ",
+        "en": "Tender redfish fillet, with fresh seasonal vegetablesal in a fine tomato cream sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "seafood",
+        "sauce_style": "jalfrezi",
+        "flavor_weight": "medium",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🦐 Seafood",
+        "en": "🦐 Seafood"
+      },
+      "allergens": [
+        "F"
+      ]
+    },
+    {
+      "id": "50",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Keema Vegetable",
+        "en": "Keema Vegetable"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Keema Vegetable. ",
+        "en": "Keema Vegetable."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "vegetable",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "51",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Keema Vegetable mittlere Portion",
+        "en": "Keema Vegetable, medium portion"
+      },
+      "price": 6.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Keema Vegetable mittlere Portion. ",
+        "en": "Keema Vegetable, medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "vegetable",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "52",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Keema Aloo",
+        "en": "Keema Aloo"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 2,
+      "status": "available",
+      "vibe_story": {
+        "de": "Keema Aloo. ",
+        "en": "Keema Aloo."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "plain",
+        "flavor_weight": "medium",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "54",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Keema Matar Madras mittlere Portion",
+        "en": "Keema Matar Madras, medium portion"
+      },
+      "price": 6.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 2,
+      "status": "available",
+      "vibe_story": {
+        "de": "Keema Matar Madras mittlere Portion. ",
+        "en": "Keema Matar Madras, medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "madras",
+        "flavor_weight": "medium",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "55",
+      "category": {
+        "de": "Lamm Spezialitäten",
+        "en": "Lamb Specialties"
+      },
+      "name": {
+        "de": "Keema Matar Madras",
+        "en": "Keema Matar Madras"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": true
+      },
+      "spice_level": 2,
+      "status": "available",
+      "vibe_story": {
+        "de": "Keema Matar Madras. ",
+        "en": "Keema Matar Madras."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "lamb",
+        "sauce_style": "madras",
+        "flavor_weight": "medium",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🐑 Lamm",
+        "en": "🐑 Lamb"
+      },
+      "allergens": []
+    },
+    {
+      "id": "57",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Goa Mix Vegetable Massala",
+        "en": "Goa Mixed Vegetable Masala"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Frisches Gemüse nach Jahreszeit, fein mariniert mit Spezialgewürzen, mit Obst, Panir, Mandeln und Rosinen, angerichtet in milder Mandelsoße. ",
+        "en": "Goa Mixed Vegetable Masala. Prepared with almonds, paneer, vegetables."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "mixed",
+        "sauce_style": "masala",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "58",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Moghulai Sabzi",
+        "en": "Moghulai Sabzi"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Verschiedenes frisches Gemüse nach Jahreszeit, angerichtet in milder Kokosnusssoße. ",
+        "en": "Moghulai Sabzi. Prepared with coconut, vegetables."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "moghulai",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "59",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Malai Kofta",
+        "en": "Malai Kofta"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Gemüsebällchen mit Panir und verschiedenen Früchten, angerichtet in feiner Mandelsoße. ",
+        "en": "Vegetable dumplings with paneer and various fruits, served in fine almond sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "malai",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "60",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Palak Paneer",
+        "en": "Palak Paneer"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Feiner Blattspinat, zubereitet nach Original indischer Art, mit hausgemachtem indischem Käse, Panir, und erlesenen Kräutern. ",
+        "en": "Palak Paneer. Prepared with spinach, paneer."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "palak",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "61",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Dal Makhani",
+        "en": "Dal Makhani"
+      },
+      "price": 10.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": true,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Indisches Nationalgericht aus Linsen, Zwiebeln, Ingwer, Tomaten und Kräutern. ",
+        "en": "Indian national dish of lentils, onions, ginger, tomatoes, and herbs."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "dal",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "63",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Bombay Aloo",
+        "en": "Bombay Aloo"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Kochkunst aus Bombay. Kartoffeln mit Zwiebeln, Tomaten und Spezialgewürzen. ",
+        "en": "Kochkunst from Bombay. potatoes with onions, tomatoes and special spices."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "vegetable",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": []
+    },
+    {
+      "id": "64",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Punjabi Sabzi",
+        "en": "Punjabi Sabzi"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Verschiedenes frisches Gemüse nach Jahreszeit, angerichtet in milder Kokosnusssoße. ",
+        "en": "Moghulai Sabzi. Prepared with coconut, vegetables."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "moghulai",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "S"
+      ]
+    },
+    {
+      "id": "65",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Vegetable Makhani",
+        "en": "Vegetable Makhani"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Frisches Gemüse, fein mariniert mit frischen Spezialgewürzen, in Tomatencremesoße. ",
+        "en": "Fresh vegetables, finely marinated with fresh special spices, in tomato cream sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "butter",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "66",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Mixed Vegetable Madras (scharf)",
+        "en": "Mixed Vegetable Madras, spicy"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 2,
+      "status": "available",
+      "vibe_story": {
+        "de": "Frisches Gemüse nach Jahreszeit, zubereitet mit feinen Spezialgewürzen nach südindischer Art, angerichtet in roter Kokosnussoße. ",
+        "en": "Mixed Vegetable Goa, spicy. Prepared with coconut, vegetables."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "mixed",
+        "sauce_style": "vegetable",
+        "flavor_weight": "light",
+        "heat_level": "spicy"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": []
+    },
+    {
+      "id": "67",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Vegetable Shahi Korma",
+        "en": "Vegetable Shahi Korma"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Ein Gericht aus der köstlichen Goa Küche. Gemischtes Gemüse wird in einer milden Soße aus Gewürzen, Sahne, Mandeln, Kokosnuss und Cashewkernen zubereitet. ",
+        "en": "A dish from the Goa kitchen. Gemischtes vegetables is in a mild sauce from spices, cream, almonds, coconut and cashews prepared."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "korma",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "68",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Vegetable Shah Korma mittlere Portion",
+        "en": "Vegetable Shah Korma, medium portion"
+      },
+      "price": 6.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Ein Gericht aus der köstlichen Goa Küche. Gemischtes Gemüse wird in einer milden Soße aus Gewürzen, Sahne, Mandeln, Kokosnuss und Cashewkernen zubereitet. Mittlere Portion. ",
+        "en": "A dish from the Goa kitchen. Gemischtes vegetables is in a mild sauce from spices, cream, almonds, coconut and cashews prepared. Medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "korma",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "69",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Aloo Saag",
+        "en": "Aloo Saag"
+      },
+      "price": 11.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Kartoffeln mit feinem Spinat, zubereitet nach alter indischer Rezeptur. ",
+        "en": "Aloo Saag. Prepared with spinach, potatoes."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "palak",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": []
+    },
+    {
+      "id": "70",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Aloo Saag mittlere Portion",
+        "en": "Aloo Saag, medium portion"
+      },
+      "price": 6.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Kartoffeln mit feinem Spinat, zubereitet nach alter indischer Rezeptur. Mittlere Portion. ",
+        "en": "Aloo Saag. Prepared with spinach, potatoes. Medium portion."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "palak",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": []
+    },
+    {
+      "id": "87",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Bhindi Masala",
+        "en": "Bhindi Masala"
+      },
+      "price": 14.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Indisches Gemüse, Okraschoten, mit Tomaten, Ingwer, Knoblauch und Zwiebeln in kräftiger Soße. ",
+        "en": "Indian vegetables, okra, with tomatoes, ginger, garlic, and onions in rich sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "masala",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": []
+    },
+    {
+      "id": "88",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Baingan Bharta",
+        "en": "Baingan Bharta"
+      },
+      "price": 14.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Aubergine im Tandoor gegrillt, püriert, mit frischen Kräutern gewürzt, mit Zwiebeln, Ingwer und Knoblauch gebraten. ",
+        "en": "Eggplant grilled in the tandoor, pureed, seasoned with fresh herbs and fried with onions, ginger, and garlic."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "vegetable",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": []
+    },
+    {
+      "id": "89",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Matar Paneer",
+        "en": "Matar Paneer"
+      },
+      "price": 13.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hausgemachter indischer Käse mit Erbsen abgestimmt, mit frischen Spezialgewürzen. ",
+        "en": "Matar Paneer. Prepared in the restaurant's style."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "90",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Aloo Gobi Bhuna",
+        "en": "Aloo Gobi Bhuna"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Blumenkohlröschen und Kartoffeln, gebraten mit feingehackten Zwiebeln, Ingwer und frischen Kräutern. ",
+        "en": "Cauliflower florets and potatoes, fried with feingehackten onions, ginger and fresh herbs."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "bhuna",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": []
+    },
+    {
+      "id": "91",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Shahi Paneer",
+        "en": "Shahi Paneer"
+      },
+      "price": 14.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Indischer Frischkäse, Panir, mit Cashewkernen in würziger Cremesoße. ",
+        "en": "Shahi Paneer. Prepared with cashews, paneer."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "shahi",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M",
+        "S"
+      ]
+    },
+    {
+      "id": "92",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Aloo Matar",
+        "en": "Aloo Matar"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Kartoffeln mit Erbsen in pikanter würziger Soße, mit frischem Ingwer und Tomaten. ",
+        "en": "Potatoes with peas in piquant spiced sauce, with fresh ginger and tomatoes."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "vegetable",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": []
+    },
+    {
+      "id": "93",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Chana Aloo Masala",
+        "en": "Chana Aloo Masala"
+      },
+      "price": 12.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Kichererbsen gemischt mit Kartoffelwürfeln in einer würzigen Soße. ",
+        "en": "Chickpeas gemischt with diced potatoes in a spiced sauce."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "masala",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": []
+    },
+    {
+      "id": "94",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Paneer Makhani",
+        "en": "Paneer Makhani"
+      },
+      "price": 14.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hausgemachter indischer Käse mit frischen feinen Spezialgewürzen, in Tomatencremesoße zubereitet. ",
+        "en": "Paneer Makhani. Prepared with tomatoes."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "butter",
+        "flavor_weight": "rich",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "95",
+      "category": {
+        "de": "Vegetarische Spezialitäten",
+        "en": "Vegetarian Specialties"
+      },
+      "name": {
+        "de": "Karahi Paneer",
+        "en": "Karahi Paneer"
+      },
+      "price": 14.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": null,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hausgemachter indischer Käse mit frischen feinen Spezialgewürzen. ",
+        "en": "Karahi Paneer. Prepared in the restaurant's style."
+      },
+      "classification": {
+        "course_type": "main_dish",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": true,
+        "trigger_type": "main_dish",
+        "show_on": [
+          "menu_item_page",
+          "add_to_cart",
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🌿 Vegetarisch",
+        "en": "🌿 Vegetarian"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "71",
+      "category": {
+        "de": "Tandoori Bread Specialities",
+        "en": "Tandoori Bread Specialties"
+      },
+      "name": {
+        "de": "Naan",
+        "en": "Naan"
+      },
+      "price": 2.5,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": false,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Ovales Brot aus Hefeteig. ",
+        "en": "Oval bread made from yeast dough."
+      },
+      "classification": {
+        "course_type": "bread",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": false,
+        "trigger_type": null,
+        "show_on": [
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🫓 Brot & Extras",
+        "en": "🫓 Bread & Extras"
+      },
+      "allergens": [
+        "GG"
+      ]
+    },
+    {
+      "id": "85",
+      "category": {
+        "de": "Tandoori Bread Specialities",
+        "en": "Tandoori Bread Specialties"
+      },
+      "name": {
+        "de": "Garlic Naan",
+        "en": "Garlic Naan"
+      },
+      "price": 2.8,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": false,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Hefeteigbrot mit Knoblauch. ",
+        "en": "Hefeteigbrot with garlic."
+      },
+      "classification": {
+        "course_type": "bread",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": false,
+        "trigger_type": null,
+        "show_on": [
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🫓 Brot & Extras",
+        "en": "🫓 Bread & Extras"
+      },
+      "allergens": [
+        "GG"
+      ]
+    },
+    {
+      "id": "86",
+      "category": {
+        "de": "Joghurts",
+        "en": "Yogurt Sides"
+      },
+      "name": {
+        "de": "Mix Raita",
+        "en": "Mixed Raita"
+      },
+      "price": 2.8,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": true,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 0,
+      "status": "available",
+      "vibe_story": {
+        "de": "Joghurt mit Gurke. ",
+        "en": "Yogurt with cucumber."
+      },
+      "classification": {
+        "course_type": "side",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": false,
+        "trigger_type": null,
+        "show_on": [
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🫓 Brot & Extras",
+        "en": "🫓 Bread & Extras"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "72",
+      "category": {
+        "de": "Tandoori Bread Specialities",
+        "en": "Tandoori Bread Specialties"
+      },
+      "name": {
+        "de": "Roti",
+        "en": "Roti"
+      },
+      "price": 1.5,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": false,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 1,
+      "status": "available",
+      "vibe_story": {
+        "de": "Flaches Vollkornfladenbrot. ",
+        "en": "Flaches whole wheat flatbread."
+      },
+      "classification": {
+        "course_type": "bread",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": false,
+        "trigger_type": null,
+        "show_on": [
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🫓 Brot & Extras",
+        "en": "🫓 Bread & Extras"
+      },
+      "allergens": [
+        "GG"
+      ]
+    },
+    {
+      "id": "73",
+      "category": {
+        "de": "Beilagen",
+        "en": "Sides"
+      },
+      "name": {
+        "de": "Portion Basmatireis",
+        "en": "Portion of basmati rice"
+      },
+      "price": 3.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": true,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 0,
+      "status": "available",
+      "vibe_story": {
+        "de": "Portion fein gewürzter Basmatireis aus Punjab. ",
+        "en": "Portion of delicately seasoned basmati rice from Punjab."
+      },
+      "classification": {
+        "course_type": "side",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": false,
+        "trigger_type": null,
+        "show_on": [
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🫓 Brot & Extras",
+        "en": "🫓 Bread & Extras"
+      },
+      "allergens": []
+    },
+    {
+      "id": "74",
+      "category": {
+        "de": "Beilagen",
+        "en": "Sides"
+      },
+      "name": {
+        "de": "Unsere Dips zum Mitnehmen",
+        "en": "Take away dips"
+      },
+      "price": 0.5,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": true,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 0,
+      "status": "available",
+      "vibe_story": {
+        "de": "Pro Portion, Mango Chutney, Mint Soße oder Chilli Soße.",
+        "en": "Per portion, mango chutney, mint sauce, or chilli sauce."
+      },
+      "classification": {
+        "course_type": "side",
+        "protein_type": "other",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": false,
+        "trigger_type": null,
+        "show_on": [
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🫓 Brot & Extras",
+        "en": "🫓 Bread & Extras"
+      },
+      "allergens": []
+    },
+    {
+      "id": "75",
+      "category": {
+        "de": "Indische Getränke",
+        "en": "Indian Drinks"
+      },
+      "name": {
+        "de": "Lassi süß (Joghurtgetränk)",
+        "en": "Sweet Lassi, yogurt drink"
+      },
+      "price": 5.5,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": true,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 0,
+      "status": "available",
+      "vibe_story": {
+        "de": "Joghurtgetränk mit Zucker. ",
+        "en": "Yogurt drink with sugar."
+      },
+      "classification": {
+        "course_type": "drink",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": false,
+        "trigger_type": null,
+        "show_on": [
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍹 Getränke",
+        "en": "🍹 Drinks"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "79",
+      "category": {
+        "de": "Indische Getränke",
+        "en": "Indian Drinks"
+      },
+      "name": {
+        "de": "Mango Lassi (Joghurtgetränk)",
+        "en": "Mango Lassi, yogurt drink"
+      },
+      "price": 7.9,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": true,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 0,
+      "status": "available",
+      "vibe_story": {
+        "de": "Mango Lassi 0,25 l ",
+        "en": "Mango lassi 0.25 l."
+      },
+      "classification": {
+        "course_type": "drink",
+        "protein_type": "veg",
+        "sauce_style": "mango",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": false,
+        "trigger_type": null,
+        "show_on": [
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍹 Getränke",
+        "en": "🍹 Drinks"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "76",
+      "category": {
+        "de": "Indische Getränke",
+        "en": "Indian Drinks"
+      },
+      "name": {
+        "de": "Lassi sauer (Joghurtgetränk)",
+        "en": "Salted Lassi, yogurt drink"
+      },
+      "price": 5.1,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_gluten_free": true,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 0,
+      "status": "available",
+      "vibe_story": {
+        "de": "Joghurtgetränk mit indischen Gewürzen. ",
+        "en": "Yogurt drink with Indian spices."
+      },
+      "classification": {
+        "course_type": "drink",
+        "protein_type": "veg",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": false,
+        "trigger_type": null,
+        "show_on": [
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍹 Getränke",
+        "en": "🍹 Drinks"
+      },
+      "allergens": [
+        "M"
+      ]
+    },
+    {
+      "id": "77",
+      "category": {
+        "de": "Indische Getränke",
+        "en": "Indian Drinks"
+      },
+      "name": {
+        "de": "Mangosaft",
+        "en": "Mango Juice"
+      },
+      "price": 4.5,
+      "dietary": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_gluten_free": true,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 0,
+      "status": "available",
+      "vibe_story": {
+        "de": "Mangosaft 0,25 l ",
+        "en": "Mango juice 0.25 l."
+      },
+      "classification": {
+        "course_type": "drink",
+        "protein_type": "veg",
+        "sauce_style": "mango",
+        "flavor_weight": "medium",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": false,
+        "trigger_type": null,
+        "show_on": [
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍹 Getränke",
+        "en": "🍹 Drinks"
+      },
+      "allergens": []
+    },
+    {
+      "id": "78",
+      "category": {
+        "de": "Indische Getränke",
+        "en": "Indian Drinks"
+      },
+      "name": {
+        "de": "Indisches Bier",
+        "en": "Indian Beer"
+      },
+      "price": 2.5,
+      "dietary": {
+        "is_vegetarian": null,
+        "is_vegan": null,
+        "is_gluten_free": false,
+        "is_sea_food": false,
+        "is_bird": false,
+        "is_lamb_based": false
+      },
+      "spice_level": 0,
+      "status": "available",
+      "vibe_story": {
+        "de": "Original Indisches Bier 0,33 l ",
+        "en": "Original Indian beer 0.33 l."
+      },
+      "classification": {
+        "course_type": "drink",
+        "protein_type": "other",
+        "sauce_style": "plain",
+        "flavor_weight": "light",
+        "heat_level": "medium"
+      },
+      "upsell": {
+        "is_trigger_item": false,
+        "trigger_type": null,
+        "show_on": [
+          "cart"
+        ]
+      },
+      "super_category": {
+        "de": "🍹 Getränke",
+        "en": "🍹 Drinks"
+      },
+      "allergens": [
+        "GG"
+      ]
+    }
+  ],
+  "pairing_rules": [
+    {
+      "rule_id": "takeaway_tandoori",
+      "priority": 100,
+      "match": {
+        "course_type": "main_dish",
+        "sauce_style": [
+          "tandoori"
+        ]
+      },
+      "recommend": {
+        "starter_ids": [
+          "2",
+          "3"
+        ],
+        "bread_ids": [
+          "71",
+          "85"
+        ],
+        "drink_ids": [
+          "78",
+          "79",
+          "75"
+        ],
+        "dessert_ids": []
+      },
+      "labels": {
+        "de": "Passt gut zu Pakoras, Naan und Mango Lassi oder indischem Bier.",
+        "en": "Pairs well with pakoras, naan, and mango lassi or Indian beer."
+      }
+    },
+    {
+      "rule_id": "takeaway_creamy_main",
+      "priority": 90,
+      "match": {
+        "course_type": "main_dish",
+        "sauce_style": [
+          "butter",
+          "korma",
+          "mango",
+          "moghulai",
+          "makhani",
+          "shahi",
+          "malai"
+        ]
+      },
+      "recommend": {
+        "starter_ids": [
+          "3",
+          "1"
+        ],
+        "bread_ids": [
+          "85",
+          "71"
+        ],
+        "drink_ids": [
+          "79",
+          "75"
+        ],
+        "dessert_ids": []
+      },
+      "labels": {
+        "de": "Passt gut zu Gemüse Pakora, Knoblauch Naan und Mango Lassi.",
+        "en": "Pairs well with vegetable pakoras, garlic naan, and mango lassi."
+      }
+    },
+    {
+      "rule_id": "takeaway_spicy_main",
+      "priority": 80,
+      "match": {
+        "course_type": "main_dish",
+        "sauce_style": [
+          "madras",
+          "vindaloo",
+          "chilli",
+          "jalfrezi",
+          "bhuna"
+        ]
+      },
+      "recommend": {
+        "starter_ids": [
+          "1"
+        ],
+        "bread_ids": [
+          "71",
+          "72"
+        ],
+        "drink_ids": [
+          "79",
+          "76",
+          "75"
+        ],
+        "dessert_ids": []
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam, Naan und Lassi.",
+        "en": "Pairs well with papadam, naan, and lassi."
+      }
+    },
+    {
+      "rule_id": "takeaway_dal_veg",
+      "priority": 70,
+      "match": {
+        "course_type": "main_dish",
+        "sauce_style": [
+          "dal",
+          "vegetable",
+          "palak"
+        ]
+      },
+      "recommend": {
+        "starter_ids": [
+          "1",
+          "3"
+        ],
+        "bread_ids": [
+          "72",
+          "71"
+        ],
+        "drink_ids": [
+          "75",
+          "77"
+        ],
+        "dessert_ids": []
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam, Roti und Mangosaft.",
+        "en": "Pairs well with papadam, roti, and mango juice."
+      }
+    },
+    {
+      "rule_id": "takeaway_biryani",
+      "priority": 85,
+      "match": {
+        "course_type": "main_dish",
+        "sauce_style": [
+          "biryani"
+        ]
+      },
+      "recommend": {
+        "starter_ids": [
+          "2",
+          "3"
+        ],
+        "bread_ids": [
+          "71"
+        ],
+        "drink_ids": [
+          "79",
+          "78",
+          "75"
+        ],
+        "dessert_ids": []
+      },
+      "labels": {
+        "de": "Passt gut zu Pakoras, Naan und einem Getränk.",
+        "en": "Pairs well with pakoras, naan, and a drink."
+      }
+    }
+  ],
+  "item_pairings": [
+    {
+      "item_id": "9",
+      "rule_id": "takeaway_tandoori",
+      "starter_ids": [
+        "2",
+        "3"
+      ],
+      "bread_ids": [
+        "71",
+        "85"
+      ],
+      "drink_ids": [
+        "78",
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "78",
+        "starter_id": "2"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Goa Shahi Mix Pakoras + Mint Soße, Naan und Indisches Bier.",
+        "en": "Pairs well with Goa Mixed Pakoras + mint sauce, Naan, and Indian Beer."
+      }
+    },
+    {
+      "item_id": "10",
+      "rule_id": "takeaway_tandoori",
+      "starter_ids": [
+        "2",
+        "3"
+      ],
+      "bread_ids": [
+        "71",
+        "85"
+      ],
+      "drink_ids": [
+        "78",
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "78",
+        "starter_id": "2"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Goa Shahi Mix Pakoras + Mint Soße, Naan und Indisches Bier.",
+        "en": "Pairs well with Goa Mixed Pakoras + mint sauce, Naan, and Indian Beer."
+      }
+    },
+    {
+      "item_id": "11",
+      "rule_id": "takeaway_tandoori",
+      "starter_ids": [
+        "2",
+        "3"
+      ],
+      "bread_ids": [
+        "71",
+        "85"
+      ],
+      "drink_ids": [
+        "78",
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "78",
+        "starter_id": "2"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Goa Shahi Mix Pakoras + Mint Soße, Naan und Indisches Bier.",
+        "en": "Pairs well with Goa Mixed Pakoras + mint sauce, Naan, and Indian Beer."
+      }
+    },
+    {
+      "item_id": "13",
+      "rule_id": "takeaway_tandoori",
+      "starter_ids": [
+        "2",
+        "3"
+      ],
+      "bread_ids": [
+        "71",
+        "85"
+      ],
+      "drink_ids": [
+        "78",
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "78",
+        "starter_id": "2"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Goa Shahi Mix Pakoras + Mint Soße, Naan und Indisches Bier.",
+        "en": "Pairs well with Goa Mixed Pakoras + mint sauce, Naan, and Indian Beer."
+      }
+    },
+    {
+      "item_id": "15",
+      "rule_id": "takeaway_biryani",
+      "starter_ids": [
+        "2",
+        "3"
+      ],
+      "bread_ids": [
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "78",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "2"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Goa Shahi Mix Pakoras + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Goa Mixed Pakoras + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "12",
+      "rule_id": "takeaway_biryani",
+      "starter_ids": [
+        "2",
+        "3"
+      ],
+      "bread_ids": [
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "78",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "2"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Goa Shahi Mix Pakoras + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Goa Mixed Pakoras + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "17",
+      "rule_id": "takeaway_biryani",
+      "starter_ids": [
+        "2",
+        "3"
+      ],
+      "bread_ids": [
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "78",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "2"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Goa Shahi Mix Pakoras + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Goa Mixed Pakoras + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "14",
+      "rule_id": "takeaway_biryani",
+      "starter_ids": [
+        "2",
+        "3"
+      ],
+      "bread_ids": [
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "78",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "2"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Goa Shahi Mix Pakoras + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Goa Mixed Pakoras + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "19",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "20",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "21",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "22",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "23",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "24",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "25",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "26",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "27",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "28",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "29",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "30",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "31",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "32",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "53",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "56",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "33",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "34",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "35",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "36",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "37",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "38",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "39",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "40",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "41",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "42",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "43",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "44",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "45",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "46",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "47",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "48",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "49",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "50",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "51",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "52",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "54",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "55",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "57",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "58",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "59",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "60",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "61",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "63",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "64",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "65",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "66",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "67",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "68",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "69",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "70",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "87",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "88",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "89",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "90",
+      "rule_id": "takeaway_spicy_main",
+      "starter_ids": [
+        "1"
+      ],
+      "bread_ids": [
+        "71",
+        "72"
+      ],
+      "drink_ids": [
+        "79",
+        "76",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "71",
+        "drink_id": "79",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "91",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "92",
+      "rule_id": "takeaway_dal_veg",
+      "starter_ids": [
+        "1",
+        "3"
+      ],
+      "bread_ids": [
+        "72",
+        "71"
+      ],
+      "drink_ids": [
+        "75",
+        "77"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "72",
+        "drink_id": "75",
+        "starter_id": "1"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Papadam Knusprig (2 Stück) + Mint Soße, Roti und Lassi süß (Joghurtgetränk).",
+        "en": "Pairs well with Papadam, 2 pieces + mint sauce, Roti, and Sweet Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "93",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "94",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    },
+    {
+      "item_id": "95",
+      "rule_id": "takeaway_creamy_main",
+      "starter_ids": [
+        "3",
+        "1"
+      ],
+      "bread_ids": [
+        "85",
+        "71"
+      ],
+      "drink_ids": [
+        "79",
+        "75"
+      ],
+      "dessert_ids": [],
+      "primary_combo": {
+        "bread_id": "85",
+        "drink_id": "79",
+        "starter_id": "3"
+      },
+      "recommended_display_order": [
+        "bread",
+        "drink",
+        "starter"
+      ],
+      "upsell_priority": {
+        "bread": 10,
+        "drink": 9,
+        "starter": 7,
+        "dessert": 0
+      },
+      "labels": {
+        "de": "Passt gut zu Vegetable Pakoras + Mint Soße, Garlic Naan und Mango Lassi (Joghurtgetränk).",
+        "en": "Pairs well with Vegetable Pakoras + mint sauce, Garlic Naan, and Mango Lassi, yogurt drink."
+      }
+    }
+  ],
+  "allergen_extraction_note": "Take away menu rebuilt from the uploaded printed take away menu images, while retaining the fine dining JSON schema and field ideas. All allergens are stored under 'allergens' using the shared root-level 'allergen_legend'. Where the take away print markers were not fully legible, existing mapped values from the prior draft were retained and lightly normalized."
+}
